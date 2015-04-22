@@ -6,8 +6,8 @@ in compliance with the License.
 
 You can obtain a copy of the license at
 http://www.opensource.org/licenses/cddl1.php
-See the License for the specific language governing
-permissions and limitations under the License.-->
+See the License for the specific language governing - THIS IS IPORT
+rmissions and limitations under the License.-->
 <xs:schema targetNamespace="urn:yahoo:yn" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="urn:yahoo:yn">
   <xs:element name="ResultSet">
     <xs:complexType>
