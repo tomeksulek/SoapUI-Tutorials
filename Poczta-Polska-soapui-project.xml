@@ -11,7 +11,7 @@
           </xs:sequence>
         </xs:complexType>
       </xs:element>
-      <xs:element name="sprawdzPrzesylke_ZMIANA!233">
+      <xs:element name="sprawdzPrzesylke_ZMIANA!233_CLOSE">
         <xs:complexType>
           <xs:sequence>
             <xs:element minOccurs="0" name="numer" nillable="true" type="xs:string"/>
